@@ -1,0 +1,2 @@
+# Doc-Summarizer
+PDF SUMMARIZER
